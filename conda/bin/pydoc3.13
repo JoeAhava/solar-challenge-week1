@@ -1,5 +1,0 @@
-#!/home/yohannes_terfa/10_academy/week_0/solar_data_discovery/conda/bin/python3.13
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()

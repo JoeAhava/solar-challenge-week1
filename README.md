@@ -10,9 +10,10 @@ This project helps you explore and analyze solar energy data.
     cd solar_data_discovery
     ```
 
-2. **Activate the conda virtual environment:**
+2. **Create and Activate the conda virtual environment:**
     ```bash
-    conda activate conda/
+    conda env create -f conda/environment.yml
+    conda activate solar_week1
     ```
 
 3. **Install dependencies:**

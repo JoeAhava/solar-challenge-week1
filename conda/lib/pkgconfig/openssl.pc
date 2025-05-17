@@ -1,9 +1,0 @@
-prefix=/home/yohannes_terfa/10_academy/week_0/solar_data_discovery/conda
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Version: 3.0.16
-Requires: libssl libcrypto
