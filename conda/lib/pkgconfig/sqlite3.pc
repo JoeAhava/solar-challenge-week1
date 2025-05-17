@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/home/yohannes_terfa/10_academy/week_0/solar_data_discovery/conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.45.3
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lz -lm -ldl -lpthread 
+Cflags: -I${includedir}
