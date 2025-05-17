@@ -1,9 +1,5 @@
 .vscode
 data/
 .csv/.ipynb_checkpoints/conda/bin/
-conda/conda-meta/
-conda/lib/
-conda/include/
-conda/ssl/
-conda/x86_64-conda-linux-gnu/
-conda/x86_64-conda_cos7-linux-gnu/
+**/.ipynb_checkpoints
+
